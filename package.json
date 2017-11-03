@@ -1,0 +1,12 @@
+{
+  "id": "mailbox.org",
+  "name": "mailbox.org",
+  "version": "0.0.2",
+  "description": "Mailbox.org Mailclient",
+  "main": "index.js",
+  "author": "Jonas Hilke <jonashilke@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://office.mailbox.org/appsuite/#!!&app=io.ox/portal&locale=de_DE"
+  }
+}
